@@ -43,10 +43,6 @@ Resistors
 # PLANNING
 
 # Product Backlog
-
-- Find Components
-- Code Prototype
-- Assemble Arduino
 - Plan the Design (Using 3D Modelling software)
 - Ability to see local time
 - Use symbols in LCD screen
@@ -55,7 +51,9 @@ Resistors
 # Sprint (In Progress)
 
 - GITHUB Readme
-
+- Code Prototype
+- Assemble Arduino
+- Find Components
 
 # Done
 
