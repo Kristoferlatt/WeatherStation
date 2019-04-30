@@ -46,15 +46,13 @@ Resistors
 - Plan the Design (Using 3D Modelling software)
 - Ability to see local time
 - Use symbols in LCD screen
-- Testing
-
 # Sprint (In Progress)
 
 - GITHUB Readme
 - Code Prototype
 - Assemble Arduino
 - Find Components
-
+- Testing
 # Done
 
 
