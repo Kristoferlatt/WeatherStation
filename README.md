@@ -23,9 +23,11 @@ The goal is to make a small arduino device which can show current temperature an
 
 # Brainstorm
 
-Danil – Button to change temperature from Celsius to Fahrenheit
+Danil – ~~Button to change temperature from Celsius to Fahrenheit~~ - Not possible, we need a switch, don't have one
+
 Kristofer – Show local time above temperature/humidity
-Kristofer – Add symbols (water, temperature etc)
+
+~~Kristofer – Add symbols (water, temperature etc)~~ - Not possible due to limited LCD hardware
 
 # Components we need
 
@@ -45,7 +47,8 @@ Resistors
 # Product Backlog
 - Plan the Design (Using 3D Modelling software)
 - Ability to see local time
-~~- Use symbols in LCD screen~~
+
+~~- Use symbols in LCD screen~~ - Not possible due to limited LCD hardware
 # Sprint (In Progress)
 - Find Components
 - Testing (Current Version)
