@@ -27,7 +27,7 @@ Danil – ~~Button to change temperature from Celsius to Fahrenheit~~ - Not poss
 
 Kristofer – Show local time above temperature/humidity
 
-~~Kristofer – Add symbols (water, temperature etc)~~ - Not possible due to limited LCD hardware
+Kristofer – ~~Add symbols (water, temperature etc)~~ - Not possible due to limited LCD hardware
 
 # Components we need
 
