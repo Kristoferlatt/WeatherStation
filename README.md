@@ -31,6 +31,8 @@ Kristofer – Show local time above temperature/humidity
 
 Kristofer – ~~Add symbols (water, temperature etc)~~ - Not possible due to limited LCD hardware
 
+Danil - Allow users to control temperature thresholds using new potentionmeters
+
 # Components we need
 
 Arduino plate
