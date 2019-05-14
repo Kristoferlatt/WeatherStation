@@ -47,14 +47,12 @@ Resistors
 - Ability to see local time
 - Use symbols in LCD screen
 # Sprint (In Progress)
-
+- Find Components
+- Testing (Current Version)
+# Done
 - GITHUB Readme
 - Code Prototype
 - Assemble Arduino
-- Find Components
-- Testing
-# Done
-
 
 
 
