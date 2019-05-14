@@ -45,7 +45,7 @@ Resistors
 # Product Backlog
 - Plan the Design (Using 3D Modelling software)
 - Ability to see local time
-- Use symbols in LCD screen
+~~- Use symbols in LCD screen~~
 # Sprint (In Progress)
 - Find Components
 - Testing (Current Version)
