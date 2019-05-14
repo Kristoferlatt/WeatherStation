@@ -6,13 +6,15 @@ People involved:
 
 TARpv17
 
-Danil Gritsenko
-Daniil Jefremov
+Danil Gritsenko - Kood, Ideas
+
+Daniil Jefremov - 3D modelling, Ideas
 
 TARpe17
 
-Kristofer Latt
-Steven Koska
+Kristofer Latt - Assembling Arduino, Ideas
+
+Steven Koska - Ideas
 
 ---------------------------------
 
