@@ -6,7 +6,7 @@ People involved:
 
 TARpv17
 
-Danil Gritsenko - Kood, Ideas
+Danil Gritsenko - Code, Ideas
 
 Daniil Jefremov - 3D modelling, Ideas
 
@@ -45,6 +45,13 @@ Wires
 Resistors
 
 # Roles
+Danil Gritsenko - Code, Ideas
+
+Daniil Jefremov - 3D modelling, Ideas
+
+Kristofer Latt - Assembling Arduino, Ideas
+
+Steven Koska - Ideas
 
 # PLANNING
 
