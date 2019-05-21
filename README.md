@@ -57,15 +57,17 @@ Steven Koska - Ideas
 
 # Product Backlog
 - Plan the Design (Using 3D Modelling software)
-- Ability to see local time
 
+~~Ability to see local time~~ - Not possible with Arduino, no internet connection module.
 ~~- Use symbols in LCD screen~~ - Not possible due to limited LCD hardware
+
 # Sprint (In Progress)
-- Find Components
+- Brainstorming (New ideas, functions)
 - Testing (Current Version)
 # Done
 - GITHUB Readme
 - Code Prototype
+- Find Components
 - Assemble Arduino
 
 
