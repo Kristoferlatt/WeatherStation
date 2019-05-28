@@ -8,7 +8,7 @@ TARpv17
 
 Danil Gritsenko - Code, Ideas
 
-Daniil Jefremov - 3D modelling, Ideas
+Daniil Jefremov - Ideas
 
 TARpe17
 
@@ -47,7 +47,7 @@ Resistors
 # Roles
 Danil Gritsenko - Code, Ideas
 
-Daniil Jefremov - 3D modelling, Ideas
+Daniil Jefremov - Ideas
 
 Kristofer Latt - Assembling Arduino, Ideas
 
@@ -56,7 +56,7 @@ Steven Koska - Ideas
 # PLANNING
 
 # Product Backlog
-- Plan the Design (Using 3D Modelling software)
+~~Plan the Design (Using 3D Modelling software)~~ - We used a cardboard box.
 
 ~~Ability to see local time~~ - Not possible with Arduino, no internet connection module.
 
